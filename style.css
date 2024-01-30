@@ -1,0 +1,19 @@
+.container2{
+    border: 2px solid black;
+    height: 60vh;
+    padding: 20px 20px;
+    display: flex;
+    row-gap: 10px;
+    column-gap: 10px;
+    justify-content: center;
+    justify-content: space-between;
+}
+body{
+    background-color: blue;
+}
+.grey{
+    background-color: grey;
+}
+.white{
+    background-color: white;
+}
